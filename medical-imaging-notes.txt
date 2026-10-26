@@ -1,0 +1,2 @@
+# Medical Imaging
+MRI uses strong magnetic fields and radio waves to generate detailed images of the body.

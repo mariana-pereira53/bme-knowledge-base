@@ -1,2 +1,7 @@
 # Medical Imaging
 MRI uses strong magnetic fields and radio waves to generate detailed images of the body.
+
+Common modalities include:
+- MRI: uses magnetic fields and radio waves.
+- CT: combines X-rays for cross-sectional images.
+- Ultrasound: uses high-frequency sound waves.
